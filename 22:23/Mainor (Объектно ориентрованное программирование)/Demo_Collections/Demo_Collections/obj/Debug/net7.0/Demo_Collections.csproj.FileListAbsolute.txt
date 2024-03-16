@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/Demo_Collections.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/Demo_Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/Demo_Collections.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/Demo_Collections.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/Demo_Collections.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/bin/Debug/net7.0/Demo_Collections
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/bin/Debug/net7.0/Demo_Collections.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/bin/Debug/net7.0/Demo_Collections.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/bin/Debug/net7.0/Demo_Collections.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/bin/Debug/net7.0/Demo_Collections.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/Demo_Collections.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/refint/Demo_Collections.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/Demo_Collections.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/Demo_Collections.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_Collections/Demo_Collections/obj/Debug/net7.0/ref/Demo_Collections.dll

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{FA8018FC-042A-450F-8667-ED8E0539A45D}|Default">
+  <MonoDevelop.Ide.ItemProperties.N20__Aleksei__Maloskin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="N20_Aleksei_Maloskin/Program.cs">
+    <Files>
+      <File FileName="N20_Aleksei_Maloskin/Program.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="N20_Aleksei_Maloskin" expanded="True">
+            <Node name="N20_Aleksei_Maloskin" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

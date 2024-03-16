@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/podkotovka_kontrolnaja_no1.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/podkotovka_kontrolnaja_no1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/podkotovka_kontrolnaja_no1.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/podkotovka_kontrolnaja_no1.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/podkotovka_kontrolnaja_no1.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/bin/Debug/net6.0/podkotovka_kontrolnaja_no1
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/bin/Debug/net6.0/podkotovka_kontrolnaja_no1.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/bin/Debug/net6.0/podkotovka_kontrolnaja_no1.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/bin/Debug/net6.0/podkotovka_kontrolnaja_no1.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/bin/Debug/net6.0/podkotovka_kontrolnaja_no1.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/podkotovka_kontrolnaja_no1.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/refint/podkotovka_kontrolnaja_no1.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/podkotovka_kontrolnaja_no1.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/podkotovka_kontrolnaja_no1.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/podkotovka_kontrolnaja_no1/podkotovka_kontrolnaja_no1/obj/Debug/net6.0/ref/podkotovka_kontrolnaja_no1.dll

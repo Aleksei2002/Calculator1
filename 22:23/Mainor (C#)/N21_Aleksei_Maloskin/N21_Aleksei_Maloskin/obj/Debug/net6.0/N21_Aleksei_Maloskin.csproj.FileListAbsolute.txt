@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/bin/Debug/net6.0/N21_Aleksei_Maloskin
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/bin/Debug/net6.0/N21_Aleksei_Maloskin.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/bin/Debug/net6.0/N21_Aleksei_Maloskin.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/bin/Debug/net6.0/N21_Aleksei_Maloskin.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/bin/Debug/net6.0/N21_Aleksei_Maloskin.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/N21_Aleksei_Maloskin.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/N21_Aleksei_Maloskin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/N21_Aleksei_Maloskin.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/N21_Aleksei_Maloskin.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/N21_Aleksei_Maloskin.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/N21_Aleksei_Maloskin.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/refint/N21_Aleksei_Maloskin.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/N21_Aleksei_Maloskin.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/N21_Aleksei_Maloskin.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/N21_Aleksei_Maloskin/N21_Aleksei_Maloskin/obj/Debug/net6.0/ref/N21_Aleksei_Maloskin.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{651312CA-ABCF-4E85-AB12-1596673A8B9A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Preparing__for__the__exam PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Preparing_for_the_exam/Program.cs">
+    <Files>
+      <File FileName="Preparing_for_the_exam/Program.cs" Line="21" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Preparing_for_the_exam" expanded="True">
+            <Node name="Preparing_for_the_exam" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

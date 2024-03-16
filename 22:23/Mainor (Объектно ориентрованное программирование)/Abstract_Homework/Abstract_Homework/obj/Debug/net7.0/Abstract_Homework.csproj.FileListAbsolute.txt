@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/Abstract_Homework.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/Abstract_Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/Abstract_Homework.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/Abstract_Homework.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/Abstract_Homework.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/bin/Debug/net7.0/Abstract_Homework
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/bin/Debug/net7.0/Abstract_Homework.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/bin/Debug/net7.0/Abstract_Homework.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/bin/Debug/net7.0/Abstract_Homework.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/bin/Debug/net7.0/Abstract_Homework.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/Abstract_Homework.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/refint/Abstract_Homework.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/Abstract_Homework.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/Abstract_Homework.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Homework/Abstract_Homework/obj/Debug/net7.0/ref/Abstract_Homework.dll

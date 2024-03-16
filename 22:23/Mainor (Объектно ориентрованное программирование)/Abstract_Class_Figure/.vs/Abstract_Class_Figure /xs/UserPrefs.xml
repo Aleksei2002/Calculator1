@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{724A1B4B-9BEE-4D28-B369-9B0A30EFF212}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Abstract__Class__Figure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstract_Class_Figure/Rectangle.cs">
+    <Files>
+      <File FileName="Abstract_Class_Figure/Figure.cs" Line="1" Column="1" />
+      <File FileName="Abstract_Class_Figure/Program.cs" Line="1" Column="1" />
+      <File FileName="Abstract_Class_Figure/Rectangle.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Abstract_Class_Figure " expanded="True">
+            <Node name="Abstract_Class_Figure" expanded="True">
+              <Node name="Rectangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

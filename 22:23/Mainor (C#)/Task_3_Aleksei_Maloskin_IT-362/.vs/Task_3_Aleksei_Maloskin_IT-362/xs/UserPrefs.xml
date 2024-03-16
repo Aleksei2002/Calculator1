@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3C0587FB-7B42-4A5C-82AF-BFF1A07C7501}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_3_Aleksei_Maloskin_IT-362/Program.cs">
+    <Files>
+      <File FileName="Task_3_Aleksei_Maloskin_IT-362/Program.cs" Line="3" Column="1" />
+      <File FileName="../Lesson_6.1_22_10_2022/Lesson_6.1_22_10_2022/MyConsole.cs" />
+      <File FileName="../Lesson_6.1_22_10_2022/Lesson_6.1_22_10_2022/Program.cs" />
+      <File FileName="../Lesson_6.1_22_10_2022/Lesson_6.1_22_10_2022/Consoleinput.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task_3_Aleksei_Maloskin_IT-362" expanded="True">
+            <Node name="Task_3_Aleksei_Maloskin_IT-362" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task__3__Aleksei__Maloskin__IT-362 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

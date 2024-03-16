@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{42EFB702-34A6-4A4C-A827-1911F48EE94F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Travel_Agency/Special.cs">
+    <Files>
+      <File FileName="Travel_Agency/Program.cs" Line="22" Column="31" />
+      <File FileName="Travel_Agency/Tour.cs" Line="12" Column="39" />
+      <File FileName="Travel_Agency/SuperTour.cs" Line="21" Column="26" />
+      <File FileName="Travel_Agency/Special.cs" Line="9" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Travel_Agency" expanded="True">
+            <Node name="Travel_Agency" expanded="True">
+              <Node name="Special.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Travel__Agency PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/bin/Debug/net6.0/Zadanie
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/bin/Debug/net6.0/Zadanie.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/bin/Debug/net6.0/Zadanie.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/bin/Debug/net6.0/Zadanie.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/bin/Debug/net6.0/Zadanie.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/Zadanie.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/Zadanie.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/Zadanie.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/Zadanie.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/Zadanie.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/refint/Zadanie.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/Zadanie.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/Zadanie.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_2_29_09_2022/Zadanie/Zadanie/obj/Debug/net6.0/ref/Zadanie.dll

@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/bin/Debug/net7.0/SimpleDerived
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/bin/Debug/net7.0/SimpleDerived.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/bin/Debug/net7.0/SimpleDerived.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/bin/Debug/net7.0/SimpleDerived.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/bin/Debug/net7.0/SimpleDerived.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/SimpleDerived.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/SimpleDerived.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/SimpleDerived.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/SimpleDerived.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/SimpleDerived.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/SimpleDerived.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/refint/SimpleDerived.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/SimpleDerived.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/SimpleDerived.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/SimpleDerived/SimpleDerived/obj/Debug/net7.0/ref/SimpleDerived.dll

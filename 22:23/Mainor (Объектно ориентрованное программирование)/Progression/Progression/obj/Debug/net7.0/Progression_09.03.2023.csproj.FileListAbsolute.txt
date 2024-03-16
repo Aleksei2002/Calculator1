@@ -1,0 +1,5 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Progression/Progression/obj/Debug/net7.0/Progression_09.03.2023.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Progression/Progression/obj/Debug/net7.0/Progression_09.03.2023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Progression/Progression/obj/Debug/net7.0/Progression_09.03.2023.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Progression/Progression/obj/Debug/net7.0/Progression_09.03.2023.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Progression/Progression/obj/Debug/net7.0/Progression_09.03.2023.csproj.CoreCompileInputs.cache

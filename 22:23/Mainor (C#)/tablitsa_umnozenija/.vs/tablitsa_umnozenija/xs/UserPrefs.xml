@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AEDDA0A3-F750-48D3-A49B-9F1A134DC568}|Default">
+  <MonoDevelop.Ide.ItemProperties.tablitsa__umnozenija PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="tablitsa_umnozenija/Program.cs">
+    <Files>
+      <File FileName="tablitsa_umnozenija/Program.cs" Line="11" Column="33" />
+      <File FileName="../Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/Program.cs" Line="40" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tablitsa_umnozenija" expanded="True">
+            <Node name="tablitsa_umnozenija" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

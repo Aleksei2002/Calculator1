@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{10BB630C-C951-4C7C-A51F-E81D6CBFB2FE}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domashnee_zadanie_№2_2023/Card.cs">
+    <Files>
+      <File FileName="Domashnee_zadanie_№2_2023/Card.cs" Line="56" Column="35" />
+      <File FileName="Domashnee_zadanie_№2_2023/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Domashnee_zadanie_№2_2023" expanded="True">
+            <Node name="Domashnee_zadanie_№2_2023" expanded="True">
+              <Node name="Card.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Domashnee__zadanie___421162__2023 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

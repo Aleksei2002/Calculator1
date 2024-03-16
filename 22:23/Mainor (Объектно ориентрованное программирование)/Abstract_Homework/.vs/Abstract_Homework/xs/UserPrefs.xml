@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9334D6DB-A1A8-47C8-99A0-20D35A034F2D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Abstract__Homework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstract_Homework/Batch.cs">
+    <Files>
+      <File FileName="Abstract_Homework/Program.cs" Line="11" Column="1" />
+      <File FileName="Abstract_Homework/Product.cs" Line="6" Column="6" />
+      <File FileName="Abstract_Homework/Goods.cs" Line="37" Column="1" />
+      <File FileName="Abstract_Homework/Batch.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Abstract_Homework" expanded="True">
+            <Node name="Abstract_Homework" expanded="True">
+              <Node name="Batch.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/korni_kvadratnogo_uravnenija.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/korni_kvadratnogo_uravnenija.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/korni_kvadratnogo_uravnenija.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/korni_kvadratnogo_uravnenija.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/korni_kvadratnogo_uravnenija.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/bin/Debug/net6.0/korni_kvadratnogo_uravnenija
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/bin/Debug/net6.0/korni_kvadratnogo_uravnenija.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/bin/Debug/net6.0/korni_kvadratnogo_uravnenija.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/bin/Debug/net6.0/korni_kvadratnogo_uravnenija.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/bin/Debug/net6.0/korni_kvadratnogo_uravnenija.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/korni_kvadratnogo_uravnenija.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/refint/korni_kvadratnogo_uravnenija.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/korni_kvadratnogo_uravnenija.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/korni_kvadratnogo_uravnenija.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/obj/Debug/net6.0/ref/korni_kvadratnogo_uravnenija.dll

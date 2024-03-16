@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8FD022F9-ECAD-45AF-9847-CFD809265A2C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SimpleDerived PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleDerived/Program.cs">
+    <Files>
+      <File FileName="SimpleDerived/Program.cs" Line="28" Column="42" />
+      <File FileName="SimpleDerived/Engineer.cs" />
+      <File FileName="SimpleDerived/CivilEngineer.cs" />
+      <File FileName="SimpleDerived/ChemicalEngineer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleDerived" expanded="True">
+            <Node name="SimpleDerived" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/bin/Debug/net6.0/Podgotovka
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/bin/Debug/net6.0/Podgotovka.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/bin/Debug/net6.0/Podgotovka.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/bin/Debug/net6.0/Podgotovka.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/bin/Debug/net6.0/Podgotovka.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/Podgotovka.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/Podgotovka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/Podgotovka.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/Podgotovka.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/Podgotovka.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/Podgotovka.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/refint/Podgotovka.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/Podgotovka.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/Podgotovka.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Podgotovka/Podgotovka/obj/Debug/net6.0/ref/Podgotovka.dll

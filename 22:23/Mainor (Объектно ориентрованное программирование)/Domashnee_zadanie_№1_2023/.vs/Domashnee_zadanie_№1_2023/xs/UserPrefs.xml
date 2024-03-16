@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A430D44B-EF99-479E-B296-7967ABB4CA33}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Domashnee__zadanie___421161__2023 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domashnee_zadanie_№1_2023/rectangle.cs">
+    <Files>
+      <File FileName="Domashnee_zadanie_№1_2023/Program.cs" />
+      <File FileName="Domashnee_zadanie_№1_2023/rectangle.cs" Line="146" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Domashnee_zadanie_№1_2023" expanded="True">
+            <Node name="Domashnee_zadanie_№1_2023" expanded="True">
+              <Node name="rectangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

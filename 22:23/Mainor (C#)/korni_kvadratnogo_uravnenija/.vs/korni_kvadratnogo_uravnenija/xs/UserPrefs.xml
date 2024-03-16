@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{733ED31D-70A6-48D9-AC8F-C00C1B0DA80B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="korni_kvadratnogo_uravnenija/Program.cs">
+    <Files>
+      <File FileName="korni_kvadratnogo_uravnenija/Program.cs" Line="22" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="korni_kvadratnogo_uravnenija" expanded="True">
+            <Node name="korni_kvadratnogo_uravnenija" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.korni__kvadratnogo__uravnenija PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{277D0832-0A87-45AF-8546-BC31C11D96D1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.podkotovka__kontrolnaja__no1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Task_2_Aleksei_Maloskin/Task_2_Aleksei_Maloskin/Program.cs">
+    <Files>
+      <File FileName="podkotovka_kontrolnaja_no1/Program.cs" Line="123" Column="28" IsPinned="True" />
+      <File FileName="../Lesson_2_29_09_2022/Zadanie/Zadanie/Program.cs" />
+      <File FileName="../korni_kvadratnogo_uravnenija/korni_kvadratnogo_uravnenija/Program.cs" />
+      <File FileName="../Lesson_4_01_10_2022/Lesson_4_01_10_2022/Program.cs" />
+      <File FileName="../Task_2_Aleksei_Maloskin/Task_2_Aleksei_Maloskin/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="podkotovka_kontrolnaja_no1" expanded="True">
+            <Node name="podkotovka_kontrolnaja_no1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

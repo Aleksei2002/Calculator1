@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ugadai_tšislo.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ugadai_tšislo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ugadai_tšislo.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ugadai_tšislo.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ugadai_tšislo.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/bin/Debug/net6.0/ugadai_tšislo
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/bin/Debug/net6.0/ugadai_tšislo.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/bin/Debug/net6.0/ugadai_tšislo.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/bin/Debug/net6.0/ugadai_tšislo.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/bin/Debug/net6.0/ugadai_tšislo.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ugadai_tšislo.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/refint/ugadai_tšislo.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ugadai_tšislo.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ugadai_tšislo.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/ugadai_tšislo/ugadai_tšislo/obj/Debug/net6.0/ref/ugadai_tšislo.dll

@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/bin/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/bin/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/bin/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/bin/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/bin/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/refint/Task_3_Aleksei_Maloskin_IT-362.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/Task_3_Aleksei_Maloskin_IT-362.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Task_3_Aleksei_Maloskin_IT-362/Task_3_Aleksei_Maloskin_IT-362/obj/Debug/net6.0/ref/Task_3_Aleksei_Maloskin_IT-362.dll

@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/NO_26_Aleksei_Maloskin.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/NO_26_Aleksei_Maloskin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/NO_26_Aleksei_Maloskin.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/NO_26_Aleksei_Maloskin.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/NO_26_Aleksei_Maloskin.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/bin/Debug/net7.0/NO_26_Aleksei_Maloskin
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/bin/Debug/net7.0/NO_26_Aleksei_Maloskin.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/bin/Debug/net7.0/NO_26_Aleksei_Maloskin.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/bin/Debug/net7.0/NO_26_Aleksei_Maloskin.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/bin/Debug/net7.0/NO_26_Aleksei_Maloskin.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/NO_26_Aleksei_Maloskin.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/refint/NO_26_Aleksei_Maloskin.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/NO_26_Aleksei_Maloskin.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/NO_26_Aleksei_Maloskin.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/NO_26_Aleksei_Maloskin/NO_26_Aleksei_Maloskin/obj/Debug/net7.0/ref/NO_26_Aleksei_Maloskin.dll

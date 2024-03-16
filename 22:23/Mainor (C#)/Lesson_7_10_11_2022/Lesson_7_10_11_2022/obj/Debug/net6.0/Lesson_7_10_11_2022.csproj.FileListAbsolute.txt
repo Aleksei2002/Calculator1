@@ -1,0 +1,5 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_7_10_11_2022/Lesson_7_10_11_2022/obj/Debug/net6.0/Lesson_7_10_11_2022.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_7_10_11_2022/Lesson_7_10_11_2022/obj/Debug/net6.0/Lesson_7_10_11_2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_7_10_11_2022/Lesson_7_10_11_2022/obj/Debug/net6.0/Lesson_7_10_11_2022.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_7_10_11_2022/Lesson_7_10_11_2022/obj/Debug/net6.0/Lesson_7_10_11_2022.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_7_10_11_2022/Lesson_7_10_11_2022/obj/Debug/net6.0/Lesson_7_10_11_2022.csproj.CoreCompileInputs.cache

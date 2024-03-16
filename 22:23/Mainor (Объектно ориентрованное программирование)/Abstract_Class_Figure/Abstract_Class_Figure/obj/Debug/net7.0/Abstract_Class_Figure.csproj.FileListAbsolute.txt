@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/bin/Debug/net7.0/Abstract_Class_Figure
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/bin/Debug/net7.0/Abstract_Class_Figure.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/bin/Debug/net7.0/Abstract_Class_Figure.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/bin/Debug/net7.0/Abstract_Class_Figure.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/bin/Debug/net7.0/Abstract_Class_Figure.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/Abstract_Class_Figure.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/Abstract_Class_Figure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/Abstract_Class_Figure.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/Abstract_Class_Figure.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/Abstract_Class_Figure.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/Abstract_Class_Figure.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/refint/Abstract_Class_Figure.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/Abstract_Class_Figure.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/Abstract_Class_Figure.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Abstract_Class_Figure/Abstract_Class_Figure/obj/Debug/net7.0/ref/Abstract_Class_Figure.dll

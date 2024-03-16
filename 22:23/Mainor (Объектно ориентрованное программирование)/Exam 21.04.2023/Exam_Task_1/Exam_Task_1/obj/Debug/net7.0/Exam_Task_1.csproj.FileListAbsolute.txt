@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/Exam_Task_1.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/Exam_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/Exam_Task_1.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/Exam_Task_1.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/Exam_Task_1.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/bin/Debug/net7.0/Exam_Task_1
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/bin/Debug/net7.0/Exam_Task_1.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/bin/Debug/net7.0/Exam_Task_1.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/bin/Debug/net7.0/Exam_Task_1.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/bin/Debug/net7.0/Exam_Task_1.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/Exam_Task_1.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/refint/Exam_Task_1.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/Exam_Task_1.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/Exam_Task_1.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Exam 21.04.2023/Exam_Task_1/Exam_Task_1/obj/Debug/net7.0/ref/Exam_Task_1.dll

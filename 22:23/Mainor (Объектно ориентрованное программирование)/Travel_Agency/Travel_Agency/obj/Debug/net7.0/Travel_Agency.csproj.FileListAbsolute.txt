@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/Travel_Agency.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/Travel_Agency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/Travel_Agency.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/Travel_Agency.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/Travel_Agency.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/bin/Debug/net7.0/Travel_Agency
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/bin/Debug/net7.0/Travel_Agency.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/bin/Debug/net7.0/Travel_Agency.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/bin/Debug/net7.0/Travel_Agency.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/bin/Debug/net7.0/Travel_Agency.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/Travel_Agency.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/refint/Travel_Agency.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/Travel_Agency.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/Travel_Agency.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Travel_Agency/Travel_Agency/obj/Debug/net7.0/ref/Travel_Agency.dll

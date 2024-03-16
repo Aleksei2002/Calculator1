@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9FC44BF3-DE53-4E78-A2C4-14928CB7B0DA}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_3_Aleksei_Malõškin/Program.cs">
+    <Files>
+      <File FileName="Task_3_Aleksei_Malõškin/Program.cs" Line="20" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task_3_Aleksei_Malõškin" expanded="True">
+            <Node name="Task_3_Aleksei_Malõškin" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task__3__Aleksei__Malõškin PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

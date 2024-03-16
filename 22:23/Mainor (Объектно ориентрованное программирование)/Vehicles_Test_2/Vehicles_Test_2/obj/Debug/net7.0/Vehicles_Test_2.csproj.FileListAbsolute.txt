@@ -1,0 +1,5 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Vehicles_Test_2/Vehicles_Test_2/obj/Debug/net7.0/Vehicles_Test_2.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Vehicles_Test_2/Vehicles_Test_2/obj/Debug/net7.0/Vehicles_Test_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Vehicles_Test_2/Vehicles_Test_2/obj/Debug/net7.0/Vehicles_Test_2.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Vehicles_Test_2/Vehicles_Test_2/obj/Debug/net7.0/Vehicles_Test_2.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Vehicles_Test_2/Vehicles_Test_2/obj/Debug/net7.0/Vehicles_Test_2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3955D4DB-91A2-45FE-8EC5-C8C39F2AD185}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Library PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/Program.cs">
+    <Files>
+      <File FileName="Library/Program.cs" Line="18" Column="29" />
+      <File FileName="Library/Card.cs" Line="4" Column="23" />
+      <File FileName="Library/Library.cs" Line="3" Column="1" />
+      <File FileName="Library/ConsoleInput (2).cs" Line="3" Column="21" />
+      <File FileName="Library/MyConsole (5).cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Library" expanded="True">
+            <Node name="Library" expanded="True">
+              <Node name="MyConsole (5).cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

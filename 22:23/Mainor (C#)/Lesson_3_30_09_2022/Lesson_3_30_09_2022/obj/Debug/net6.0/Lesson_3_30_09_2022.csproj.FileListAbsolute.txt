@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/bin/Debug/net6.0/Lesson_3_30_09_2022
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/bin/Debug/net6.0/Lesson_3_30_09_2022.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/bin/Debug/net6.0/Lesson_3_30_09_2022.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/bin/Debug/net6.0/Lesson_3_30_09_2022.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/bin/Debug/net6.0/Lesson_3_30_09_2022.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/Lesson_3_30_09_2022.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/Lesson_3_30_09_2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/Lesson_3_30_09_2022.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/Lesson_3_30_09_2022.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/Lesson_3_30_09_2022.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/Lesson_3_30_09_2022.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/refint/Lesson_3_30_09_2022.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/Lesson_3_30_09_2022.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/Lesson_3_30_09_2022.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_3_30_09_2022/Lesson_3_30_09_2022/obj/Debug/net6.0/ref/Lesson_3_30_09_2022.dll

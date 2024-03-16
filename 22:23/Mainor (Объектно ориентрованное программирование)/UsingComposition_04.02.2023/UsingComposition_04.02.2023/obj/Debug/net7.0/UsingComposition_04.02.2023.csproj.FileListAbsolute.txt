@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/bin/Debug/net7.0/UsingComposition_04.02.2023
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/bin/Debug/net7.0/UsingComposition_04.02.2023.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/bin/Debug/net7.0/UsingComposition_04.02.2023.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/bin/Debug/net7.0/UsingComposition_04.02.2023.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/bin/Debug/net7.0/UsingComposition_04.02.2023.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/UsingComposition_04.02.2023.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/UsingComposition_04.02.2023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/UsingComposition_04.02.2023.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/UsingComposition_04.02.2023.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/UsingComposition_04.02.2023.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/UsingComposition_04.02.2023.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/refint/UsingComposition_04.02.2023.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/UsingComposition_04.02.2023.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/UsingComposition_04.02.2023.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/UsingComposition_04.02.2023/UsingComposition_04.02.2023/obj/Debug/net7.0/ref/UsingComposition_04.02.2023.dll

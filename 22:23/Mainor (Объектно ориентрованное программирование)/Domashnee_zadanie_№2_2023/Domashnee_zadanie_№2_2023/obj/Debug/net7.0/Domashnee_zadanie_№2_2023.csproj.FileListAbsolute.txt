@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/bin/Debug/net7.0/Domashnee_zadanie_№2_2023
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/bin/Debug/net7.0/Domashnee_zadanie_№2_2023.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/bin/Debug/net7.0/Domashnee_zadanie_№2_2023.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/bin/Debug/net7.0/Domashnee_zadanie_№2_2023.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/bin/Debug/net7.0/Domashnee_zadanie_№2_2023.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/Domashnee_zadanie_№2_2023.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/Domashnee_zadanie_№2_2023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/Domashnee_zadanie_№2_2023.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/Domashnee_zadanie_№2_2023.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/Domashnee_zadanie_№2_2023.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/Domashnee_zadanie_№2_2023.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/refint/Domashnee_zadanie_№2_2023.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/Domashnee_zadanie_№2_2023.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/Domashnee_zadanie_№2_2023.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Domashnee_zadanie_№2_2023/Domashnee_zadanie_№2_2023/obj/Debug/net7.0/ref/Domashnee_zadanie_№2_2023.dll

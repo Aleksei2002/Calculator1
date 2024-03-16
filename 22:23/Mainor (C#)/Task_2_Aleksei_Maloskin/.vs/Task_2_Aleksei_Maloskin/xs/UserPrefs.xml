@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F6CFC243-CD3B-4817-ABF8-E5AB2F8D1EA2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_2_Aleksei_Maloskin/Program.cs">
+    <Files>
+      <File FileName="Task_2_Aleksei_Maloskin/Program.cs" Line="7" Column="4" />
+      <File FileName="../Lesson_01_08_09_2022/Lesson_01_08_09_2022/Program.cs" Line="95" Column="80" />
+      <File FileName="../Lesson_4_01_10_2022/Lesson_4_01_10_2022/Program.cs" Line="1" Column="1" />
+      <File FileName="../Lesson_3_30_09_2022/Lesson_3_30_09_2022/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task_2_Aleksei_Maloskin" expanded="True">
+            <Node name="Task_2_Aleksei_Maloskin" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task__2__Aleksei__Maloskin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

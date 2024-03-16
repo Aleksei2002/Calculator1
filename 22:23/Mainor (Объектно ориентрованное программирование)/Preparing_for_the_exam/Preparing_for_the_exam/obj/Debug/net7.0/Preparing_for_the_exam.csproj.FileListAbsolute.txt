@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/Preparing_for_the_exam.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/Preparing_for_the_exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/Preparing_for_the_exam.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/Preparing_for_the_exam.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/Preparing_for_the_exam.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/bin/Debug/net7.0/Preparing_for_the_exam
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/bin/Debug/net7.0/Preparing_for_the_exam.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/bin/Debug/net7.0/Preparing_for_the_exam.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/bin/Debug/net7.0/Preparing_for_the_exam.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/bin/Debug/net7.0/Preparing_for_the_exam.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/Preparing_for_the_exam.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/refint/Preparing_for_the_exam.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/Preparing_for_the_exam.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/Preparing_for_the_exam.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Preparing_for_the_exam/Preparing_for_the_exam/obj/Debug/net7.0/ref/Preparing_for_the_exam.dll

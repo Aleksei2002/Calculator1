@@ -1,0 +1,8 @@
+CREATE TABLE ORDERS(
+  order_num  int NOT NULL,
+  order_date date NOT NULL,
+  cust_id    CHAR(10) NOT NULL
+);
+
+----------------------------------------------------------------
+

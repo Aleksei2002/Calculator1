@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/Practic_class_person.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/Practic_class_person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/Practic_class_person.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/Practic_class_person.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/Practic_class_person.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/bin/Debug/net7.0/Practic_class_person
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/bin/Debug/net7.0/Practic_class_person.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/bin/Debug/net7.0/Practic_class_person.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/bin/Debug/net7.0/Practic_class_person.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/bin/Debug/net7.0/Practic_class_person.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/Practic_class_person.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/refint/Practic_class_person.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/Practic_class_person.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/Practic_class_person.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Practic_class_person/Practic_class_person/obj/Debug/net7.0/ref/Practic_class_person.dll

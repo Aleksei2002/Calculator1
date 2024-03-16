@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{39B2B25A-CD40-44FD-A648-A340ABF3F6DD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UsingComposition__04.02.2023 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UsingComposition_04.02.2023/Employee.cs">
+    <Files>
+      <File FileName="UsingComposition_04.02.2023/Program.cs" />
+      <File FileName="UsingComposition_04.02.2023/Date.cs" />
+      <File FileName="UsingComposition_04.02.2023/Employee.cs" Line="31" Column="123" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UsingComposition_04.02.2023" expanded="True">
+            <Node name="UsingComposition_04.02.2023" expanded="True">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

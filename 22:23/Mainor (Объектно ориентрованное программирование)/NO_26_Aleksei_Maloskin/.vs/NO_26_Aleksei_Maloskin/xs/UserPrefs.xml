@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8479E97D-B8FF-4058-B3A5-EDD72A98D751}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NO_26_Aleksei_Maloskin/Program.cs">
+    <Files>
+      <File FileName="NO_26_Aleksei_Maloskin/Program.cs" Line="11" Column="25" />
+      <File FileName="NO_26_Aleksei_Maloskin/Circle.cs" />
+      <File FileName="NO_26_Aleksei_Maloskin/Rectangle.cs" Line="17" Column="10" />
+      <File FileName="NO_26_Aleksei_Maloskin/Square.cs" />
+      <File FileName="NO_26_Aleksei_Maloskin/Shape.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NO_26_Aleksei_Maloskin" expanded="True">
+            <Node name="NO_26_Aleksei_Maloskin" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NO__26__Aleksei__Maloskin PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/bin/Debug/net7.0/Demo_ClassArray
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/bin/Debug/net7.0/Demo_ClassArray.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/bin/Debug/net7.0/Demo_ClassArray.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/bin/Debug/net7.0/Demo_ClassArray.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/bin/Debug/net7.0/Demo_ClassArray.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/Demo_ClassArray.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/Demo_ClassArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/Demo_ClassArray.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/Demo_ClassArray.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/Demo_ClassArray.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/Demo_ClassArray.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/refint/Demo_ClassArray.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/Demo_ClassArray.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/Demo_ClassArray.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (Объектно ориентрованное программирование)/Demo_ClassArray/Demo_ClassArray/obj/Debug/net7.0/ref/Demo_ClassArray.dll

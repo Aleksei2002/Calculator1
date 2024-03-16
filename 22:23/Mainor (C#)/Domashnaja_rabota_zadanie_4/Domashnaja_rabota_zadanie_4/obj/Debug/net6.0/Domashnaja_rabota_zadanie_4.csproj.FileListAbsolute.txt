@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/bin/Debug/net6.0/Domashnaja_rabota_zadanie_4
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/bin/Debug/net6.0/Domashnaja_rabota_zadanie_4.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/bin/Debug/net6.0/Domashnaja_rabota_zadanie_4.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/bin/Debug/net6.0/Domashnaja_rabota_zadanie_4.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/bin/Debug/net6.0/Domashnaja_rabota_zadanie_4.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/Domashnaja_rabota_zadanie_4.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/Domashnaja_rabota_zadanie_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/Domashnaja_rabota_zadanie_4.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/Domashnaja_rabota_zadanie_4.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/Domashnaja_rabota_zadanie_4.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/Domashnaja_rabota_zadanie_4.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/refint/Domashnaja_rabota_zadanie_4.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/Domashnaja_rabota_zadanie_4.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/Domashnaja_rabota_zadanie_4.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Domashnaja_rabota_zadanie_4/Domashnaja_rabota_zadanie_4/obj/Debug/net6.0/ref/Domashnaja_rabota_zadanie_4.dll

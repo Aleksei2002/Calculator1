@@ -1,0 +1,15 @@
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/bin/Debug/net6.0/User_lesson_bank
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/bin/Debug/net6.0/User_lesson_bank.deps.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/bin/Debug/net6.0/User_lesson_bank.runtimeconfig.json
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/bin/Debug/net6.0/User_lesson_bank.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/bin/Debug/net6.0/User_lesson_bank.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/User_lesson_bank.csproj.AssemblyReference.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/User_lesson_bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/User_lesson_bank.AssemblyInfoInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/User_lesson_bank.AssemblyInfo.cs
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/User_lesson_bank.csproj.CoreCompileInputs.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/User_lesson_bank.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/refint/User_lesson_bank.dll
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/User_lesson_bank.pdb
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/User_lesson_bank.genruntimeconfig.cache
+/Users/burgmalmail.ru/Desktop/Mainor Üld/Mainor (C#)/Lesson_bank/User_lesson_bank/User_lesson_bank/obj/Debug/net6.0/ref/User_lesson_bank.dll

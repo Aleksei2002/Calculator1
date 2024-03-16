@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3BF67B3C-6EED-48F5-B42B-59C90B6DFFD9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lesson__6__22__10__2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Lesson_6.1_22_10_2022/Lesson_6.1_22_10_2022/MyConsole.cs">
+    <Files>
+      <File FileName="../Lesson_6.1_22_10_2022/Lesson_6.1_22_10_2022/MyConsole.cs" Line="25" Column="1" />
+      <File FileName="../Lesson_6.1_22_10_2022/Lesson_6.1_22_10_2022/random.cs" Line="1" Column="1" />
+      <File FileName="../Lesson_6.1_22_10_2022/Lesson_6.1_22_10_2022/Consoleinput.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson_6_22_10_2022" expanded="True">
+            <Node name="Lesson_6_22_10_2022" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
